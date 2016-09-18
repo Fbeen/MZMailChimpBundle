@@ -1,5 +1,5 @@
 {
-    "name": "mlpz/mailchimp-bundle",
+    "name": "fbeen/mailchimp-bundle",
     "type": "symfony-bundle",
     "description": "mailchimp bundle",
     "keywords": ["mailchimp","api", "newsletter"],
